@@ -7,5 +7,6 @@ namespace bookshop.webapi.Contexts
     public class AppDbContext : IdentityDbContext<AppUser, AppRole, int>
     {
         public AppDbContext(DbContextOptions options) : base(options) { }
+        public DbSet<Book> Books { get; set; }
     }
 }

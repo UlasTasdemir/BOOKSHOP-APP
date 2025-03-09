@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\ali_masa\u00FCst\u00FC\\Github\\BOOKSHOP-APP\\bookshop-back-api\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A4867914-664D-4E82-8726-06A329E4A28C}|bookshop.webapi\\bookshop.webapi.csproj|c:\\users\\user\\desktop\\ali_masa\u00FCst\u00FC\\github\\bookshop-app\\bookshop-back-api\\bookshop.webapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4867914-664D-4E82-8726-06A329E4A28C}|bookshop.webapi\\bookshop.webapi.csproj|solutionrelative:bookshop.webapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A4867914-664D-4E82-8726-06A329E4A28C}|bookshop.webapi\\bookshop.webapi.csproj|c:\\users\\user\\desktop\\ali_masa\u00FCst\u00FC\\github\\bookshop-app\\bookshop-back-api\\bookshop.webapi\\controllers\\googleapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4867914-664D-4E82-8726-06A329E4A28C}|bookshop.webapi\\bookshop.webapi.csproj|solutionrelative:bookshop.webapi\\controllers\\googleapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A4867914-664D-4E82-8726-06A329E4A28C}|bookshop.webapi\\bookshop.webapi.csproj|c:\\users\\user\\desktop\\ali_masa\u00FCst\u00FC\\github\\bookshop-app\\bookshop-back-api\\bookshop.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4867914-664D-4E82-8726-06A329E4A28C}|bookshop.webapi\\bookshop.webapi.csproj|solutionrelative:bookshop.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A4867914-664D-4E82-8726-06A329E4A28C}|bookshop.webapi\\bookshop.webapi.csproj|c:\\users\\user\\desktop\\ali_masa\u00FCst\u00FC\\github\\bookshop-app\\bookshop-back-api\\bookshop.webapi\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4867914-664D-4E82-8726-06A329E4A28C}|bookshop.webapi\\bookshop.webapi.csproj|solutionrelative:bookshop.webapi\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4867914-664D-4E82-8726-06A329E4A28C}|bookshop.webapi\\bookshop.webapi.csproj|c:\\users\\user\\desktop\\ali_masa\u00FCst\u00FC\\github\\bookshop-app\\bookshop-back-api\\bookshop.webapi\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4867914-664D-4E82-8726-06A329E4A28C}|bookshop.webapi\\bookshop.webapi.csproj|solutionrelative:bookshop.webapi\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4867914-664D-4E82-8726-06A329E4A28C}|bookshop.webapi\\bookshop.webapi.csproj|c:\\users\\user\\desktop\\ali_masa\u00FCst\u00FC\\github\\bookshop-app\\bookshop-back-api\\bookshop.webapi\\models\\googleapimodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4867914-664D-4E82-8726-06A329E4A28C}|bookshop.webapi\\bookshop.webapi.csproj|solutionrelative:bookshop.webapi\\models\\googleapimodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A4867914-664D-4E82-8726-06A329E4A28C}|bookshop.webapi\\bookshop.webapi.csproj|c:\\users\\user\\desktop\\ali_masa\u00FCst\u00FC\\github\\bookshop-app\\bookshop-back-api\\bookshop.webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,6 +29,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{A4867914-664D-4E82-8726-06A329E4A28C}|bookshop.webapi\\bookshop.webapi.csproj|c:\\users\\user\\desktop\\ali_masa\u00FCst\u00FC\\github\\bookshop-app\\bookshop-back-api\\bookshop.webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A4867914-664D-4E82-8726-06A329E4A28C}|bookshop.webapi\\bookshop.webapi.csproj|solutionrelative:bookshop.webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4867914-664D-4E82-8726-06A329E4A28C}|bookshop.webapi\\bookshop.webapi.csproj|c:\\users\\user\\desktop\\ali_masa\u00FCst\u00FC\\github\\bookshop-app\\bookshop-back-api\\bookshop.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4867914-664D-4E82-8726-06A329E4A28C}|bookshop.webapi\\bookshop.webapi.csproj|solutionrelative:bookshop.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,20 +66,56 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ali_masa\u00FCst\u00FC\\Github\\BOOKSHOP-APP\\bookshop-back-api\\bookshop.webapi\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "bookshop.webapi\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ali_masa\u00FCst\u00FC\\Github\\BOOKSHOP-APP\\bookshop-back-api\\bookshop.webapi\\Models\\Book.cs",
+              "RelativeToolTip": "bookshop.webapi\\Models\\Book.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwA8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T12:49:21.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ali_masa\u00FCst\u00FC\\Github\\BOOKSHOP-APP\\bookshop-back-api\\bookshop.webapi\\Contexts\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "bookshop.webapi\\Contexts\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ali_masa\u00FCst\u00FC\\Github\\BOOKSHOP-APP\\bookshop-back-api\\bookshop.webapi\\Contexts\\AppDbContext.cs",
+              "RelativeToolTip": "bookshop.webapi\\Contexts\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T12:30:33.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GoogleApiModels.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ali_masa\u00FCst\u00FC\\Github\\BOOKSHOP-APP\\bookshop-back-api\\bookshop.webapi\\Models\\GoogleApiModels.cs",
+              "RelativeDocumentMoniker": "bookshop.webapi\\Models\\GoogleApiModels.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ali_masa\u00FCst\u00FC\\Github\\BOOKSHOP-APP\\bookshop-back-api\\bookshop.webapi\\Models\\GoogleApiModels.cs",
+              "RelativeToolTip": "bookshop.webapi\\Models\\GoogleApiModels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T10:53:04.078Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ali_masa\u00FCst\u00FC\\Github\\BOOKSHOP-APP\\bookshop-back-api\\bookshop.webapi\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "bookshop.webapi\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\ali_masa\u00FCst\u00FC\\Github\\BOOKSHOP-APP\\bookshop-back-api\\bookshop.webapi\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "bookshop.webapi\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAADwvw4AAAArAAAAAAAAAA==",
+              "Title": "GoogleApiController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ali_masa\u00FCst\u00FC\\Github\\BOOKSHOP-APP\\bookshop-back-api\\bookshop.webapi\\Controllers\\GoogleApiController.cs",
+              "RelativeDocumentMoniker": "bookshop.webapi\\Controllers\\GoogleApiController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ali_masa\u00FCst\u00FC\\Github\\BOOKSHOP-APP\\bookshop-back-api\\bookshop.webapi\\Controllers\\GoogleApiController.cs",
+              "RelativeToolTip": "bookshop.webapi\\Controllers\\GoogleApiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-08T13:41:51.49Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\ali_masa\u00FCst\u00FC\\Github\\BOOKSHOP-APP\\bookshop-back-api\\bookshop.webapi\\Program.cs",
               "RelativeDocumentMoniker": "bookshop.webapi\\Program.cs",
@@ -75,25 +123,23 @@
               "RelativeToolTip": "bookshop.webapi\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T11:27:37.354Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-08T11:27:37.354Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\ali_masa\u00FCst\u00FC\\Github\\BOOKSHOP-APP\\bookshop-back-api\\bookshop.webapi\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "bookshop.webapi\\Properties\\launchSettings.json",
               "ToolTip": "C:\\Users\\User\\Desktop\\ali_masa\u00FCst\u00FC\\Github\\BOOKSHOP-APP\\bookshop-back-api\\bookshop.webapi\\Properties\\launchSettings.json",
               "RelativeToolTip": "bookshop.webapi\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-08T11:19:29.73Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-08T11:19:29.73Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "AppUser.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\ali_masa\u00FCst\u00FC\\Github\\BOOKSHOP-APP\\bookshop-back-api\\bookshop.webapi\\Models\\AppUser.cs",
               "RelativeDocumentMoniker": "bookshop.webapi\\Models\\AppUser.cs",
@@ -101,21 +147,19 @@
               "RelativeToolTip": "bookshop.webapi\\Models\\AppUser.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T11:12:46.362Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-08T11:12:46.362Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\ali_masa\u00FCst\u00FC\\Github\\BOOKSHOP-APP\\bookshop-back-api\\bookshop.webapi\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "bookshop.webapi\\Controllers\\AuthController.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\ali_masa\u00FCst\u00FC\\Github\\BOOKSHOP-APP\\bookshop-back-api\\bookshop.webapi\\Controllers\\AuthController.cs",
               "RelativeToolTip": "bookshop.webapi\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T11:06:41.247Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-08T11:06:41.247Z"
             }
           ]
         }
