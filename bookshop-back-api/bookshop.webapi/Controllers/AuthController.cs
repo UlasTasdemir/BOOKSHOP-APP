@@ -57,5 +57,13 @@ namespace bookshop.webapi.Controllers
             else
                 return BadRequest("Sign in unsuccessfull.");
         }
+
+        [HttpGet]
+        [Route("signout")]
+        public async Task<ActionResult> SignOut()
+        {
+            await signInManager.SignOutAsync();
+            return Ok("Signout successfull.");
+        }
     }
 }

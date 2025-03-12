@@ -1,7 +1,23 @@
 <div class="container">
   <div>
     <h2>YYÜ KİTABEVİ</h2>
-    <button (click)="goToLoginPage()">Login</button>
-    <button (click)="goToRegisterPage()">Register</button>
+    <a *ngIf="!isAuthenticated" routerLink="/login"> Giriş Yap </a>
+    <a *ngIf="!isAuthenticated" routerLink="/register"> Kayıt ol </a>
+    <h4 *ngIf="isAuthenticated">{{ this.sharedState.email }}</h4>
+    <a *ngIf="isAuthenticated" routerLink="/cart">Sepetim</a>
+    <a *ngIf="isAuthenticated" routerLink="/orders">Siparişlerim</a>
+    <button *ngIf="isAuthenticated" (click)="signOut()">Çıkış</button>
   </div>
+  <main>
+    <app-product
+      *ngFor="let book of allBooks"
+      [id]="book.id"
+      [isbn_13]="book.isbn_13"
+      [publicId]="book.publicId"
+      [author]="book.author"
+      [price]="book.price"
+      [title]="book.title"
+      [subTitle]="book.subTitle"
+    ></app-product>
+  </main>
 </div>
